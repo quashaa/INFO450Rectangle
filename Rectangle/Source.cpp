@@ -20,6 +20,7 @@ int main()
 
 	cout << "\nThe area of the rectangle is " << area << " units" << endl;
 	cout << "The perimeter of the rectangle is " << perimeter << " units\n" << endl;
+
 	system("pause");
 
 	return 0;
